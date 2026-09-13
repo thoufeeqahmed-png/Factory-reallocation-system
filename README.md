@@ -1,2 +1,1 @@
-# Factory-reallocation-system
-Here's a concise 3-line description:  > **Factory Reallocation System** is a Machine Learning application that predicts the **Gross Profit** of an order using historical business data. > It uses a **Random Forest Regression** model to analyze order details and estimate profitability. > Based on the prediction, it predicts high,medium ,low order 
+ **Factory Reallocation System** is a Machine Learning application that predicts the **Gross Profit** of an order using historical business data. > It uses a **Random Forest Regression** model to analyze order details and estimate profitability. > Based on the prediction, it predicts high,medium ,low order 
